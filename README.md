@@ -8,7 +8,7 @@ Adding offline functionality to existing budget tracker using IndexedDB for offl
 ## Screenshot Previous
 
 Live demo of app in offline mode then turned online to repopulate data
-<img src="./public/assets/images/readme_images/PWA_BudgetTracker.gif" width="80%">
+<img src="./public/assets/images/readme_images/PWA_BudgetTracker.gif" width="100%">
 
 <img src="./public/assets/images/readme_images/budgettracker.png" width="70%">
 
