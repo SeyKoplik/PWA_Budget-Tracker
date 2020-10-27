@@ -5,7 +5,7 @@
 
 Adding offline functionality to existing budget tracker using IndexedDB for offline storage and setting Cache to store css and html of app (static-cache) and store transaction data (data-cache) through the service worker. 
 
-## Screenshot Previous
+## Screenshot Previews
 
 Live demo of app in offline mode then turned online to repopulate data
 <img src="./public/assets/images/readme_images/pwa.gif" width="100%">
