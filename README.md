@@ -1,4 +1,4 @@
-# PWA_Budget-Tracker
+# Progressive Web Applicatiobn -- Budget Tracker
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
